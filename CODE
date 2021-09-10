@@ -1,0 +1,10 @@
+# apt update
+# apt install git
+# git clone https://github.com/rajkumardusad/IP-Tracer.git
+
+# cd IP-Tracer
+# chmod +x install
+# sh install или ./install
+
+
+
